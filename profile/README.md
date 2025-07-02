@@ -1,6 +1,6 @@
 ## Welcome to Slattstudio!
 ### Links:
-* We have a [Discord Server]([https://discord.gg/Rh62gD2uUG] "Discord Server") available for discussion, help, and to report bugs.
+* We have a [Discord Server](https://discord.gg/Rh62gD2uUG "Discord Server") available for discussion, help, and to report bugs.
 * You can shop for Slattstudio merchandise at https://slattstudio-shop.fourthwall.com/ for awesome shirts, hoodies, hats, and stickers.
 
 ### Thanks for playing!
